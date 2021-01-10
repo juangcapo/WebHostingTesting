@@ -1,4 +1,3 @@
-# WebHostingTesting
 <!DOCTYPE html>
 <html>
 <head>
